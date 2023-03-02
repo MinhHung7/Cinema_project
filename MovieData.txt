@@ -1,0 +1,500 @@
+1,Crime,Drug War (Du zhan),29/12/2023,14:01,1.9,$2.28
+2,Action,Smokin' Aces 2: Assassins' Ball,21/03/2023,1:48,2.3,$9.62 
+3,Comedy|Drama,Art School Confidential,17/01/2023,3:53,2.7,$1.97  
+4,Drama,Iron Island (Jazireh Ahani),03/10/2023,0:22,1.5,$2.74 
+5,Documentary,Seeking Asian Female,25/02/2023,20:50,1.6,$9.75 
+6,Drama,Iron Island (Jazireh Ahani),03/10/2023,0:22,1.5,$2.74 
+7,Adventure|Drama|Fantasy,The Beautiful Story,19/03/2023,3:55,2.8,$8.91 
+8,Action|Comedy|Western,Barbed Wire,24/02/2023,2:30,1.2,$9.71 
+9,Drama,Valley of the Dolls,31/07/2023,17:39,1.9,$9.61 
+10,Action|Drama|Sci-Fi,Solarbabies,23/07/2023,14:41,1.3,$6.26 
+11,Horror,Female Vampire (Les avaleuses) (Erotic Kill),16/10/2023,7:46,2.1,$0.45 
+12,Documentary,Seeking Asian Female,25/02/2023,20:50,1.6,$9.75 
+13,Drama|Thriller,Dangerous Moves (La diagonale du fou),26/05/2023,3:57,1.8,$8.99 
+14,Comedy|Drama|Romance,Dead Husbands,08/09/2023,4:10,2.1,$2.60 
+15,Action|Drama|War,Silmido,20/05/2023,7:33,1.9,$9.72 
+16,Drama|Mystery,Red Violin The (Violon rouge Le),07/07/2023,20:05,2.5,$4.41 
+17,Action|Adventure|Animation|Comedy,Team America: World Police,17/10/2023,15:17,1.8,$8.72 
+18,Drama|Fantasy|Thriller,Tideland,27/01/2023,9:42,3,$3.86 
+19,Crime|Drama,Organizer The (I compagni),04/08/2023,5:07,2.6,$3.38 
+20,Action|Crime|Thriller,Mad Detective (Sun taam),18/09/2023,12:30,2.8,$2.02 
+21,Comedy,Who's That Girl?,09/10/2023,3:44,2,$4.89 
+22,Adventure|Thriller,Largo Winch (Heir Apparent: Largo Winch The),30/10/2023,18:36,1.2,$8.82 
+23,Documentary,Merchants of Doubt,19/01/2023,2:42,2,$9.86 
+24,Comedy|Drama|Romance,Nico and Dani (Krámpack),09/12/2023,22:02,1.2,$6.05 
+25,Comedy,Perched on a Tree (Sur un arbre perché),09/04/2023,11:51,1.3,$1.13 
+26,War,The Real Glory,09/07/2023,14:00,1.3,$3.46 
+27,Comedy,Tomcats,18/04/2023,10:10,1.4,$9.01 
+28,Animation|Children|Comedy,Kung Fu Panda Holiday Special,17/03/2023,3:26,1.1,$1.77 
+29,Documentary,56 Up,26/06/2023,18:02,2,$6.70 
+30,Drama|Romance|Western,Hi-Lo Country The,07/02/2023,20:57,1.9,$2.39 
+31,Drama,Goddess The,30/06/2023,19:03,1.4,$6.58 
+32,(no genres listed),Des fleurs pour Algernon,19/05/2023,15:46,1.6,$9.57 
+33,Animation|Comedy|Sci-Fi,"ChubbChubbs!, The",17/12/2023,11:11,2.8,$0.14 
+34,Comedy,"Closet, The (Placard, Le)",01/04/2023,10:19,2.7,$1.16 
+35,Crime|Drama|Mystery|Thriller,"Blood Relatives (Liens de sang, Les)",14/01/2023,0:04,1.6,$5.42 
+36,Adventure|Documentary,Long Way Round,29/04/2023,22:31,2.1,$0.11 
+37,Comedy|Romance,Lisbela e o Prisioneiro (Lisbela and the Prisoner),17/10/2023,21:06,2.6,$5.12 
+38,Action|Crime|Drama|Thriller,Cop Land,25/11/2023,14:47,1.3,$9.41 
+39,(no genres listed),Nom de code : Rose,17/09/2023,2:48,1.6,$0.14 
+40,Drama|War,"Last Command, The",12/02/2023,16:15,3,$9.44 
+41,Drama|Romance|War,Gitmek: My Marlon and Brando (Gitmek: Benim Marlon ve Brandom),10/06/2023,8:07,2.2,$1.25 
+42,Drama,One Trick Pony,27/07/2023,16:59,2.2,$1.53 
+43,Comedy|Drama,Rudderless,03/07/2023,9:26,2.6,$5.76 
+44,Film-Noir|Thriller,"Dark Mirror, The",07/04/2023,17:51,1.6,$1.05 
+45,Adventure|Documentary,From B Movie to Cult Film: Western,13/11/2023,23:17,2.5,$6.09 
+46,Horror,Bones,15/10/2023,23:38,2.9,$4.64 
+47,Comedy|Drama,"Decameron, The (Decameron, Il)",28/09/2023,13:30,1.2,$3.54 
+48,Sci-Fi,Killers from Space,08/10/2023,11:14,1.3,$4.94 
+49,Drama|Romance,Casablanca,04/12/2023,10:44,1.4,$8.35 
+50,Comedy|Musical|Romance,Jumbo (Billy Rose's Jumbo),13/09/2023,15:48,1.4,$6.68 
+51,Adventure|Fantasy,Vassilisa the Beautiful (Vasilisa prekrasnaya),11/07/2023,17:29,1.8,$4.69 
+52,Drama,Best Man Down,07/08/2023,8:15,1.7,$1.73 
+53,Horror,"Kill, Baby, Kill (Operazione paura)",01/03/2023,6:52,1.9,$0.75 
+54,Comedy|Drama|Musical,Mammy,16/08/2023,6:51,1.7,$7.43 
+55,Comedy|Musical,Walk Hard: The Dewey Cox Story,08/08/2023,14:24,2.3,$6.38 
+56,Drama,Music Box,25/09/2023,9:30,2.8,$1.79 
+57,Drama|Romance,"Ennui, L'",11/02/2023,8:23,1.3,$9.04 
+58,Drama|Romance,Feeling Minnesota,21/07/2023,4:59,2.8,$1.46 
+59,Comedy|Drama|Fantasy,"Santa Clause, The",06/08/2023,7:29,2.1,$9.50 
+60,Comedy|Drama|Romance,Seeking a Friend for the End of the World,21/11/2023,18:38,3,$3.58 
+61,Drama|Romance,Blue Sky,20/10/2023,16:33,2.9,$2.21 
+62,Horror,Starry Eyes,06/10/2023,8:42,1.4,$9.00 
+63,Drama|Mystery,"Nines, The",02/12/2023,2:06,1.9,$7.03 
+64,Drama,Still Mine,24/05/2023,12:08,1.8,$4.95 
+65,Drama|Romance|Western,September Dawn,19/01/2023,17:44,2.7,$4.26 
+66,Crime|Drama,"Informer, The",20/09/2023,19:46,1.3,$6.11 
+67,Drama,Imaginary Crimes,26/11/2023,14:33,1.8,$1.15 
+68,Comedy,100 Men and a Girl (One Hundred Men and a Girl),31/01/2023,22:36,2.6,$1.85 
+69,Comedy|Crime|Drama,"Sense of History, A",06/01/2023,2:17,1.3,$0.93 
+70,Drama,Feast of July,26/12/2023,2:04,1.7,$8.82 
+71,Comedy|Drama|Romance,Roll Bounce,03/04/2023,22:33,2.3,$9.07 
+72,Comedy|Crime|Thriller,"Swindle, The (Rien ne va plus)",07/03/2023,7:57,1.8,$3.68 
+73,Documentary,Fuel,18/03/2023,5:33,2.8,$5.47 
+74,Drama,"Visit, The",17/04/2023,12:45,1.4,$3.46 
+75,Action|Adventure,"Arena, The (a.k.a. Naked Warriors)",04/05/2023,17:20,1.7,$9.13 
+76,Drama|Thriller,Caught,14/12/2023,8:19,1.3,$1.91 
+77,Drama,"Cider House Rules, The",28/09/2023,8:52,1.6,$0.18 
+78,Action,Smokin' Aces 2: Assassins' Ball,18/09/2023,6:52,1.4,$9.11 
+79,Drama|Romance|War|Western,Legends of the Fall,26/08/2023,17:38,1.8,$6.14 
+80,Drama|War,Gung Ho! (Gung Ho!: The Story of Carlson's Makin Island Raiders),04/04/2023,18:57,2.4,$7.88 
+81,Drama,Ankur (The Seedling),12/08/2023,23:45,2,$4.13 
+82,Action|Drama|Romance|Western,Virginia City,14/05/2023,5:24,1.6,$4.58 
+83,Drama,"Fidanzati, I (Fiances, The)",27/06/2023,5:28,2.4,$6.96 
+84,Crime|Drama|Thriller,Revolver,31/08/2023,0:29,2.9,$9.92 
+85,Comedy|Romance,Supporting Characters,14/03/2023,17:30,1.8,$1.95 
+86,Drama,Mac,14/03/2023,3:58,1,$8.12 
+87,Drama,Medea,26/10/2023,5:03,1.3,$4.81 
+88,Comedy|Drama,Unconditional Love,19/11/2023,0:13,1.2,$5.60 
+89,Comedy|Drama,"What to Do in Case of Fire (Was tun, wenn's brennt?)",10/04/2023,4:33,2.9,$5.09 
+90,Crime|Drama,House of Women,19/03/2023,23:41,2.6,$7.95 
+91,Drama,Birdman of Alcatraz,23/06/2023,15:55,1.8,$4.62 
+92,Action|Adventure|Romance,"Adventures of Hajji Baba, The",18/05/2023,16:41,2,$3.27 
+93,Action|Thriller,Easy Money (Snabba Cash),13/09/2023,20:31,1.7,$7.42 
+94,Action|Crime,From Paris with Love,12/10/2023,17:06,1.8,$1.97 
+95,Comedy|Crime|Mystery|Romance|Thriller,Charade,04/03/2023,2:33,2.2,$0.39 
+96,Drama|Sci-Fi,Contact,24/12/2023,4:44,2.4,$8.84 
+97,Comedy|Drama|Romance,About Last Night...,25/07/2023,17:41,2.8,$5.54 
+98,Horror,Dead Genesis,05/09/2023,10:24,2.7,$6.85 
+99,Drama,American Madness,05/10/2023,6:35,2.6,$4.79 
+100,Drama|Romance,"Art of Getting By, The",09/05/2023,7:37,2.3,$0.84 
+101,Drama,"Chant of Jimmy Blacksmith, The",28/04/2023,8:32,2.3,$6.12 
+102,Action|Romance|Western,Rainbow Valley,24/02/2023,14:01,2.9,$2.48 
+103,Horror|Thriller,Grotesque (Gurotesuku),22/01/2023,1:40,1.9,$0.81 
+104,Action|Sci-Fi,Tekken,20/05/2023,23:50,1.8,$3.68 
+105,Crime|Horror|Thriller,Play Motel,15/09/2023,3:25,2.6,$9.50 
+106,Comedy|Romance,"Strange Behaviour of Sexually Mature City Slickers at Mating Season, The (Das merkwürdige Verhalten geschlechtsreifer Großstädter zur Paarungszeit)",12/08/2023,5:05,2.9,$1.86 
+107,Drama,Floating Weeds (Ukigusa),22/05/2023,4:29,2.9,$4.84 
+108,Drama,Roman de gare,09/03/2023,22:42,1.1,$1.17 
+109,Drama,At First Sight,13/03/2023,2:40,1.1,$0.43 
+110,Drama|Romance,"Immigrant, The",08/09/2023,12:25,2.9,$4.03 
+111,Crime|Drama|Mystery|Thriller,"Spanish Prisoner, The",25/12/2023,12:01,2.2,$7.97 
+112,Comedy,Fear of a Black Hat,18/05/2023,8:06,2.8,$3.14 
+113,Action|Animation|Sci-Fi,Ghost in the Shell Arise - Border 1: Ghost Pain,08/11/2023,12:31,1.9,$7.44 
+114,Documentary,"Last Truck: Closing of a GM Plant, The",14/11/2023,16:29,2.9,$9.08 
+115,Comedy|Drama,Jerry Springer: Ringmaster,16/12/2023,10:13,2,$5.56 
+116,Comedy|Drama,Suddenly (Tan de Repente),06/11/2023,9:51,2.5,$8.55 
+117,Comedy|Crime,Something for Everyone,05/10/2023,10:21,1.8,$5.68 
+118,Action|Adventure|Comedy|Romance,"Jewel of the Nile, The",23/08/2023,19:23,2.8,$5.17 
+119,Comedy|Musical,Copper Mountain,05/10/2023,3:06,2.8,$9.48 
+120,Comedy|Musical,Score: A Hockey Musical,10/11/2023,15:16,1.6,$9.42 
+121,Comedy,The Girls,18/11/2023,21:02,1.3,$2.72 
+122,Fantasy|Horror|Sci-Fi|Thriller,Attack of the Mushroom People (Matango),03/12/2023,1:03,1.2,$2.49 
+123,Comedy|Romance,"Incredibly True Adventure of Two Girls in Love, The",01/01/2023,5:43,2.4,$0.15 
+124,Drama|Fantasy|Romance,Bear's Kiss,25/07/2023,19:28,1.3,$1.56 
+125,Thriller,"Canyon, The",13/07/2023,2:21,2.1,$5.75 
+126,Drama|Romance,Love in the Afternoon (Chloe in the Afternoon)  (L'amour l'après-midi),21/07/2023,19:58,2.3,$9.22 
+127,Comedy|Romance,Grumpier Old Men,25/11/2023,3:16,1.1,$7.56 
+128,Adventure,Treasure of the Four Crowns,23/07/2023,15:00,2,$7.79 
+129,Action|Adventure|Mystery|Romance|Thriller,North by Northwest,20/06/2023,8:09,2.9,$8.10 
+130,Drama|War,"Patience Stone, The",20/09/2023,9:09,2,$3.33 
+131,Crime|Drama|Thriller,Quicksand,01/12/2023,20:24,1,$7.72 
+132,Comedy|Documentary|Drama,Stephen Tobolowsky's Birthday Party,27/02/2023,19:05,3,$6.44 
+133,Horror|Thriller,Mercy ,19/02/2023,7:52,1.3,$7.71 
+134,Drama|Mystery|Thriller,No Way Out,13/08/2023,3:28,1.1,$3.07 
+135,Comedy|Drama|Romance,"Grand Maneuver, The (Les grandes manoeuvres)",28/04/2023,4:26,2.5,$5.27 
+136,Western,Rage at Dawn,02/01/2023,5:02,1.2,$3.41 
+137,Horror|Thriller,In Dreams,17/06/2023,23:26,2.9,$8.31 
+138,Drama,"Company Men, The",19/06/2023,13:30,1.4,$6.69 
+139,Drama,No Way Home,09/03/2023,0:10,2.7,$2.85 
+140,Animation|Comedy|Fantasy,Mickey's Once Upon a Christmas,26/07/2023,16:20,2.2,$3.58 
+141,Comedy,Ants in the Pants 2,29/05/2023,6:55,2.6,$4.52 
+142,Drama|War,Lincoln,28/10/2023,13:05,1.2,$2.16 
+143,Adventure,"Naked Prey, The",29/07/2023,2:59,1.3,$9.21 
+144,Crime|Documentary,Cleanflix,17/04/2023,2:08,2.1,$0.75 
+145,Adventure|Animation|Children|Comedy,Madagascar,20/03/2023,0:37,1.6,$5.41 
+146,Documentary,Alive Inside,17/12/2023,1:50,2,$7.83 
+147,Drama,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale),24/05/2023,20:17,2,$1.60 
+148,Comedy|Crime,What Will You Do When You Catch Me? (Co mi zrobisz jak mnie zlapiesz?),15/10/2023,0:13,2.9,$2.64 
+149,Comedy|Fantasy|Horror|Thriller,"Brothers Grimm, The",29/01/2023,22:17,2.7,$9.59 
+150,Comedy|Documentary|Drama,Word Wars,20/02/2023,19:51,1.2,$2.18 
+151,Comedy|Sci-Fi,Heartbeeps,25/10/2023,0:24,1.4,$5.07 
+152,Comedy,Punk's Dead: SLC Punk! 2,12/11/2023,21:49,2.9,$3.75 
+153,Drama,Flowers of Shanghai (Hai shang hua),29/11/2023,8:45,1.2,$3.64 
+154,Action|Drama,After the Rain (Ame agaru) ,06/09/2023,3:28,1.9,$1.07 
+155,Children|Comedy,Good Burger,29/09/2023,10:31,2.8,$1.97 
+156,Action|Sci-Fi|Thriller,Surrogates,16/07/2023,22:02,1.4,$9.14 
+157,Animation|Comedy|Sci-Fi,Futurama: Bender's Big Score,09/04/2023,10:01,2.6,$1.75 
+158,Action|Drama|Western,"Lusty Men, The",16/08/2023,17:29,2.3,$3.77 
+159,Comedy|Musical,Hollywood Party,27/04/2023,10:06,1.1,$9.62 
+160,Drama|Mystery|Thriller,"39 Steps, The",19/06/2023,21:16,2.9,$4.26 
+161,Comedy|Drama,Closer to the Moon,04/08/2023,7:19,1.8,$6.33 
+162,Adventure|Drama,Measuring the World (Die Vermessung der Welt),25/11/2023,6:15,2.5,$4.46 
+163,Horror|Thriller,Bruiser,30/12/2023,3:58,1.6,$5.66 
+164,Drama,Queen Bee,01/07/2023,16:35,1.2,$8.28 
+165,Horror,Friday the 13th Part 3: 3D,25/10/2023,2:19,2.3,$8.85 
+166,Adventure|Comedy|Crime|Romance,Those Daring Young Men in Their Jaunty Jalopies,24/04/2023,14:33,2.7,$0.88 
+167,Crime|Drama|Mystery|Thriller,Black Widow,16/11/2023,15:19,2.5,$7.21 
+168,Fantasy|Horror,"Company of Wolves, The",04/09/2023,19:11,1.4,$8.92 
+169,Action|Documentary|Drama|Thriller,From the Earth to the Moon,26/02/2023,1:42,2.4,$2.89 
+170,Crime|Drama,Sister (L'enfant d'en haut),10/06/2023,2:27,1.4,$7.54 
+171,Drama,"Attack, The",23/08/2023,7:21,2,$8.72 
+172,Drama,Sweet Dreams,07/05/2023,21:17,2.8,$6.30 
+173,Comedy,Page Miss Glory,02/10/2023,5:47,2.8,$5.99 
+174,Action|Comedy,Kung Pow: Enter the Fist,01/11/2023,22:39,1.1,$6.16 
+175,Crime|Western,"Great Train Robbery, The",28/05/2023,16:06,1.6,$8.81 
+176,Drama|Thriller,Downloading Nancy,25/07/2023,4:16,1.5,$6.73 
+177,Comedy|Romance,"White Sheik, The (Sceicco bianco, Lo)",03/08/2023,10:17,1.3,$4.06 
+178,Crime|Drama|Mystery|Thriller,Meeting Evil,01/12/2023,4:06,2.7,$9.98 
+179,Drama,Diary of a Country Priest (Journal d'un curé de campagne),15/06/2023,21:46,1.8,$1.93 
+180,Comedy,"People, Places, Things",19/01/2023,18:57,1.1,$9.98 
+181,Drama|Romance|Thriller,"Big Town, The",24/01/2023,5:49,2.4,$1.22 
+182,Drama|Horror|Mystery|Thriller,"Orphanage, The (Orfanato, El)",14/07/2023,16:26,2.4,$1.91 
+183,Comedy,Mike Birbiglia: What I Should Have Said Was Nothing,19/02/2023,12:52,2,$0.87 
+184,Comedy|Drama|Romance,"Witches, The (Le streghe)",08/04/2023,16:59,1.9,$5.99 
+185,Drama,Mar Baum,26/02/2023,6:34,2.9,$4.29 
+186,Comedy|Romance,Outsourced,02/06/2023,9:22,1.6,$2.82 
+187,Action|War|Western,Adios Sabata,14/07/2023,15:41,1.9,$0.62 
+188,Crime|Western,"Great Train Robbery, The",28/05/2023,16:06,1.6,$8.81 
+189,Drama|Thriller,Downloading Nancy,25/07/2023,4:16,1.5,$6.73 
+190,Action|Drama,Three Outlaw Samurai (Sanbiki no samurai),08/01/2023,2:09,2.7,$1.05 
+191,Action|Drama|Fantasy|Horror,Cargo,28/08/2023,14:41,2.3,$5.58 
+192,Drama,Illegal,14/05/2023,1:15,1.3,$1.38 
+193,Documentary|War,San Pietro,16/08/2023,10:09,1.4,$3.26 
+194,Drama,The Other Side of the Mountain,15/09/2023,0:38,2,$2.22 
+195,Drama|Film-Noir|Thriller,Tight Spot,01/01/2023,14:30,1.2,$0.69 
+196,Action|Comedy|Drama|Romance,I Hate But Love (Nikui an-chikushô),17/09/2023,9:51,2.4,$3.24 
+197,Action|Crime,Trick,11/07/2023,7:11,2.7,$7.29 
+198,Horror,Demons (Dèmoni),15/06/2023,15:42,1.6,$6.15 
+199,Horror|Mystery|Thriller,They Wait,07/10/2023,8:24,1.6,$5.82 
+200,Comedy,"Jungle Book of Regulations, A (Nie Ma Rozy Bez Ognia)",15/03/2023,19:12,1.8,$9.95 
+201,Comedy|Horror|Thriller,Bride of Chucky (Child's Play 4),22/09/2023,18:00,2.5,$4.52 
+202,Comedy,Another Gay Movie,16/02/2023,10:34,2.5,$7.61 
+203,Action,Supercross,01/05/2023,6:01,1.2,$0.89 
+204,Drama,Maborosi (Maboroshi no hikari),23/08/2023,13:19,2.6,$9.50 
+205,Drama,White Man's Burden,28/07/2023,10:10,2.8,$5.12 
+206,Horror|Sci-Fi|Thriller,Panic in Year Zero!,10/07/2023,14:42,2.7,$9.14 
+207,Comedy|Western,They Call Me Trinity,31/12/2023,1:55,1.5,$1.96 
+208,Documentary,"Cross: The Arthur Blessitt Story, The",20/04/2023,21:38,2.6,$1.61 
+209,Action,"Hunted, The",15/10/2023,3:04,2.5,$3.32 
+210,Documentary,Mon Paradis - Der Winterpalast,19/08/2023,3:05,1.6,$5.12 
+211,Horror|Thriller,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers),09/04/2023,3:16,2.5,$7.34 
+212,Action|Adventure|Thriller,On Deadly Ground,08/06/2023,4:00,1.3,$8.19 
+213,Horror,"Evil of Frankenstein, The",04/04/2023,11:11,2.3,$7.96 
+214,Comedy|Drama,"Red Dwarf, The (Nain rouge, Le)",08/06/2023,15:26,2.3,$6.72 
+215,Documentary,Please Remove Your Shoes ,10/09/2023,13:36,1.3,$8.66 
+216,Action|Crime|Drama,"Immortals, The",03/01/2023,18:08,1.7,$2.22 
+217,Crime|Thriller,Kinjite: Forbidden Subjects,01/03/2023,4:50,2.4,$3.06 
+218,Comedy|Musical,So Long Letty,20/10/2023,8:54,2.5,$7.38 
+219,Action|Adventure|Fantasy,Hercules and the Circle of Fire,12/09/2023,8:45,1.3,$7.52 
+220,Action,Minnie and Moskowitz,17/12/2023,3:15,1.9,$0.85 
+221,Action|Adventure|Drama|Musical|Romance|Thriller|War,"Hero: Love Story of a Spy, The",21/05/2023,20:38,2.3,$6.73 
+222,Drama,Salt of the Earth,28/09/2023,1:47,1.1,$9.38 
+223,Adventure|Drama|Mystery,"Saragossa Manuscript, The (Rekopis znaleziony w Saragossie)",06/03/2023,13:57,1.7,$2.38 
+224,Comedy,Better Living,27/07/2023,4:23,2.2,$6.15 
+225,Drama,Free Radicals (Böse Zellen),30/06/2023,13:59,1.6,$1.99 
+226,Horror,Campfire Tales,04/01/2023,15:41,2.4,$2.03 
+227,Drama,Kairat,29/01/2023,4:40,2.3,$9.57 
+228,Drama,Bogowie,14/06/2023,5:33,1.7,$4.79 
+229,Drama,"Mystic Masseur, The",23/04/2023,18:28,2.3,$5.52 
+230,Action|Comedy|Crime,Cop Out,20/02/2023,21:23,2.4,$0.25 
+231,Horror|Thriller,Home Movie,25/08/2023,15:37,1.8,$2.36 
+232,Comedy|Drama|Romance,"Accidental Tourist, The",03/06/2023,22:15,1.9,$7.97 
+233,Drama|Fantasy,"Wall, The (Die Wand)",10/04/2023,16:38,1.4,$9.14 
+234,Action|Children|Fantasy,Arthur and the Invisibles,07/12/2023,0:46,1.1,$3.42 
+235,Drama,"Screaming Man, A (Un homme qui crie)",25/11/2023,15:55,2.4,$6.34 
+236,Crime|Mystery,Shamus,14/03/2023,9:02,2.7,$9.87 
+237,Adventure|Fantasy|Sci-Fi,Mothra (Mosura),11/03/2023,1:18,2.5,$0.00 
+238,Action,Dr. Wai in the Scriptures with No Words (Mao xian wang),09/01/2023,0:40,1.9,$5.82 
+239,Animation|Crime|War,Alois Nebel,14/01/2023,11:00,1.2,$1.92 
+240,Comedy|Romance,That Touch of Mink,14/11/2023,6:41,1.7,$2.59 
+241,Drama|Thriller,Edmond,10/06/2023,1:02,2.2,$1.78 
+242,Drama|Romance,Carrie,09/09/2023,4:03,2.9,$6.36 
+243,Drama,Under Capricorn,17/09/2023,5:12,2.6,$2.57 
+244,Action|Adventure|Thriller,Maximum Conviction,26/07/2023,11:49,2.2,$1.99 
+245,Horror|Thriller,"Dark Hours, The",30/06/2023,17:38,1.7,$2.79 
+246,Comedy|Crime|Film-Noir|Mystery|Romance|Thriller,Lady on a Train,18/05/2023,6:45,1.4,$5.04 
+247,Comedy|Drama|Romance,"First Time, The",25/10/2023,13:23,1.5,$2.69 
+248,Crime|Drama|Mystery,Kill a Rat,01/03/2023,16:10,2.4,$4.20 
+249,Action|Thriller,"Suspect, The (Yong-eui-ja)",27/11/2023,19:45,1.4,$3.09 
+250,Comedy,Get Out of My Room,03/01/2023,4:10,2.4,$1.56 
+251,Drama,I Never Promised You a Rose Garden,02/11/2023,22:20,2.8,$4.49 
+252,Adventure|Animation|Horror|Sci-Fi|Thriller,King of Thorn (King of Thorns) (Ibara no O),15/12/2023,10:43,1.7,$7.42 
+253,Documentary,Which Way Is the Front Line From Here?  The Life and Time of Tim Hetherington,22/01/2023,23:14,2.2,$8.70 
+254,Drama,"Fiancee, The (Parineeta)",26/05/2023,21:44,2,$8.98 
+255,Action|Adventure|Drama|Thriller,"Order, The",13/10/2023,18:33,3,$3.57 
+256,Comedy|Drama|Romance,Julie & Julia,31/12/2023,14:44,1.6,$4.78 
+257,Comedy|Documentary,Nantucket Film Festival's Comedy Roundtable,18/10/2023,13:37,2.4,$8.74 
+258,Crime|Drama|Film-Noir|Romance,The Face Behind the Mask,01/02/2023,1:50,2,$1.93 
+259,Drama,"Noose, The (Petla)",12/10/2023,8:35,1.4,$3.21 
+260,Comedy,"Seducing Doctor Lewis (Grande séduction, La)",20/07/2023,9:42,1.2,$8.06 
+261,Action|Drama|Sci-Fi,"War of the Worlds, The",28/04/2023,7:59,1.2,$0.36 
+262,Action|Adventure|Fantasy,Age of the Dragons,27/03/2023,16:03,1.6,$6.32 
+263,Drama,Salvador (Puig Antich),25/11/2023,18:57,2.4,$9.57 
+264,Comedy,Archangel,26/12/2023,1:46,1.6,$2.73 
+265,Comedy,Teen Witch,07/01/2023,13:06,1.9,$9.24 
+266,Horror,"Pit and the Pendulum, The",19/05/2023,5:40,2.5,$5.76 
+267,Drama,Free Fall,12/12/2023,19:12,1.2,$6.94 
+268,Drama,"McCullochs, The",29/12/2023,6:39,1.4,$2.01 
+269,Drama,Angel,07/04/2023,0:26,2.6,$7.48 
+270,Animation|Children|Drama|Musical,Dumbo,30/09/2023,0:16,2.1,$5.35 
+271,Drama|Romance,M. Butterfly,16/01/2023,21:33,3,$0.35 
+272,Drama,"Sunset Limited, The",05/10/2023,15:02,2.7,$2.03 
+273,Comedy|Drama|Romance,Last Holiday,09/03/2023,5:21,2.3,$0.80 
+274,Drama|Romance,Normal Adolescent Behavior,28/08/2023,3:46,2.9,$6.19 
+275,Crime|Drama,Manon,12/04/2023,2:52,1,$4.65 
+276,Action|Sci-Fi|Thriller,Surrogates,23/08/2023,11:01,1.8,$4.37 
+277,Adventure|Drama|Romance,Judith of Bethulia,02/07/2023,2:21,1.9,$4.45 
+278,Comedy,Raspberry Boat Refugee,09/01/2023,2:18,1.4,$6.55 
+279,Animation|Comedy,Daria: Is It Fall Yet?,26/07/2023,2:16,2.6,$1.65 
+280,Comedy,"Seducing Doctor Lewis (Grande séduction, La)",08/11/2023,20:42,1.8,$6.00 
+281,Western,Joe Kidd,30/05/2023,13:03,2.7,$4.42 
+282,Drama,Oyster Farmer,11/07/2023,9:51,1.8,$3.96 
+283,Crime|Drama,Jesse Stone: Innocents Lost,10/06/2023,8:39,1.4,$5.45 
+284,Action|Comedy|Horror,Blood Shot,26/01/2023,12:27,1.1,$6.95 
+285,Comedy,Stromberg - Der Film,27/03/2023,21:46,3,$3.29 
+286,Comedy|Crime,Leontine,11/01/2023,11:04,1.2,$6.35 
+287,Horror|Thriller,"Frozen, The",20/01/2023,11:24,2.3,$9.15 
+288,Adventure|Animation|Children|Musical,"Land Before Time II: The Great Valley Adventure, The",31/03/2023,22:15,2.6,$5.69 
+289,Drama|Thriller|War,"Quiet American, The",10/03/2023,23:26,1.2,$8.87 
+290,Drama|Fantasy,Uncle Boonmee Who Can Recall His Past Lives (Loong Boonmee raleuk chat),27/02/2023,19:58,1.8,$0.87 
+291,Crime|Drama|Fantasy,Pitfall (Otoshiana),29/12/2023,1:23,2.7,$8.60 
+292,Documentary,"Agronomist, The",24/12/2023,5:51,2.7,$2.87 
+293,Horror|Thriller,Asylum,08/02/2023,5:51,1.2,$3.47 
+294,Comedy|Drama,Boogie Woogie,26/04/2023,5:51,1.7,$7.34 
+295,Documentary|IMAX,Shackleton's Antarctic Adventure,26/10/2023,9:48,1.9,$4.83 
+296,Adventure|Children|Comedy|Fantasy,A Connecticut Yankee in King Arthur's Court,10/12/2023,21:05,2.6,$5.91 
+297,Crime|Thriller,Eye In The Sky (Gun chung),30/05/2023,18:26,2.3,$0.43 
+298,Documentary,Evidence,30/01/2023,9:01,2,$2.73 
+299,Western,Jeremiah Johnson,23/11/2023,10:17,2.3,$9.23 
+300,Horror,"Name for Evil, A",17/05/2023,5:24,1.2,$0.91 
+301,Action|Crime|Drama,The Outsider,03/04/2023,18:12,2.9,$5.16 
+302,Action|Crime|Drama|Western,3:10 to Yuma,04/02/2023,1:08,1.3,$9.13 
+303,Action|Comedy|Romance,My Girlfriend Is an Agent (Chilgeup gongmuwon),15/02/2023,16:41,2.4,$2.03 
+304,Comedy,Car Wash,05/07/2023,4:24,2.5,$7.13 
+305,Mystery|Romance|Thriller,Stage Fright,14/03/2023,1:59,2.8,$7.01 
+306,Comedy|Drama|War,Charlie Wilson's War,19/09/2023,23:40,2.8,$5.91 
+307,Drama|Romance,Summer with Monika (Sommaren med Monika),10/12/2023,16:43,2.8,$9.83 
+308,Drama|Horror|Thriller,Rosemary's Baby,16/08/2023,16:03,2,$7.22 
+309,Comedy|Drama,Road to Redemption,02/04/2023,15:20,1.7,$3.55 
+310,Drama|Romance,Maidens in Uniform (Mädchen in Uniform),10/06/2023,20:14,2.8,$4.45 
+311,Comedy,"Sucker, The (Corniaud, Le)",20/06/2023,7:07,1.2,$5.60 
+312,Drama,Hamlet,19/05/2023,19:22,2.2,$1.27 
+313,Comedy|Drama,Pocketful of Miracles,03/03/2023,0:42,2,$0.19 
+314,Comedy|Drama|Romance,Juha,01/12/2023,4:09,1.9,$3.45 
+315,(no genres listed),Lad: A Dog,10/08/2023,8:23,2.3,$3.15 
+316,Comedy|Drama,"Firemen's Ball, The (Horí, má panenko)",29/12/2023,17:39,2.1,$4.09 
+317,Drama|Thriller,Compliance,27/10/2023,17:15,1.1,$9.38 
+318,Adventure|Drama|Romance,Sahara,29/11/2023,20:32,1.7,$4.43 
+319,Action|Adventure|Crime|Mystery|Thriller,Flashpoint,06/01/2023,15:30,1.6,$8.65 
+320,Documentary,Chasing Ice,08/01/2023,10:11,2.8,$6.73 
+321,Comedy|Drama,Loving,30/11/2023,9:45,1.7,$7.94 
+322,Drama|War,"Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France, The)",25/02/2023,15:56,1.3,$5.72 
+323,Comedy|Fantasy|Horror,"Legend of Sleepy Hollow, The",15/05/2023,21:56,1.4,$3.87 
+324,Action|Drama,Shaolin (Xin shao lin si),27/04/2023,2:00,1.1,$2.81 
+325,Sci-Fi,Visitor to a Museum (Posetitel muzeya),06/07/2023,15:37,1.5,$2.13 
+326,Comedy,Doctor Detroit,06/11/2023,9:08,2.8,$0.79 
+327,Action|Drama|Mystery|Thriller,"Quiller Memorandum, The",13/06/2023,19:14,2,$4.02 
+328,Crime|Drama|Thriller,Out of Time,12/05/2023,11:44,2.3,$3.43 
+329,(no genres listed),Stars Above,11/01/2023,12:27,1.8,$4.35 
+330,Crime|Horror|Mystery,"Blood Beast Terror, The",30/05/2023,0:45,1.5,$0.94 
+331,Action|Crime|Drama,Death Wish,05/01/2023,2:37,1.8,$8.36 
+332,Comedy,"Magic Christian, The",21/09/2023,21:03,2.7,$9.01 
+333,Animation|Drama|Fantasy,"Tale of Princess Kaguya, The (Kaguyahime no monogatari)",24/05/2023,13:03,1.4,$5.66 
+334,Drama,"Cry, the Beloved Country",19/08/2023,7:16,2.5,$4.05 
+335,Drama,Lee Daniels' The Butler,14/05/2023,19:26,1.5,$1.89 
+336,Drama,Slam,23/01/2023,0:20,1.8,$5.54 
+337,Documentary,Chronicle of a Summer (Chronique d'un été),25/04/2023,17:28,1.3,$8.62 
+338,Comedy|Drama|Romance,Something's Gotta Give,30/07/2023,16:13,1,$0.81 
+339,Comedy|Drama,"Jeff, Who Lives at Home",03/05/2023,1:44,2.7,$4.44 
+340,Documentary,"I Am My Films - A Portrait of Werner Herzog (Was ich bin, sind meine Filme)",31/03/2023,7:46,2,$9.46 
+341,Comedy|Drama|Fantasy,"Odd Life of Timothy Green, The",22/05/2023,6:06,2.1,$5.44 
+342,Drama|Thriller,"Fan, The",04/08/2023,17:23,2.2,$9.05 
+343,Sci-Fi,Calculator,24/06/2023,12:34,2.3,$6.18 
+344,(no genres listed),Finisterrae,19/03/2023,3:32,2.3,$6.84 
+345,Drama,Ulysses,27/01/2023,6:06,1.9,$0.84 
+346,Drama|Thriller,"Confessor, The (a.k.a. The Good Shepherd)",07/05/2023,5:13,1.4,$3.70 
+347,Horror|Thriller,"Monkey's Paw, The",15/08/2023,6:56,1.6,$7.23 
+348,Sci-Fi,Beginning of the End,04/08/2023,7:54,1.3,$0.40 
+349,Drama,Two Family House,30/07/2023,5:04,1.6,$0.83 
+350,Comedy|Mystery|Thriller,"Big Fix, The",11/09/2023,4:17,1.7,$9.28 
+351,Animation|Children|Comedy,Surf's Up,02/10/2023,1:19,2,$8.72 
+352,Drama,Valerie,12/06/2023,10:05,2.4,$6.86 
+353,Comedy,A-Haunting We Will Go,30/03/2023,9:02,2.1,$5.83 
+354,Drama,Of Human Bondage,24/04/2023,4:35,2.8,$1.62 
+355,Comedy|Drama,If I Were You,03/08/2023,7:45,2.7,$3.47 
+356,Comedy,The great match,24/06/2023,1:44,1.1,$6.14 
+357,Action|Crime|Drama|Thriller,Chained Heat,09/04/2023,20:02,2.6,$1.24 
+358,Drama,"Mudlark, The",23/12/2023,23:33,1.4,$3.12 
+359,Children|Comedy|Musical|Romance,Another Cinderella Story,23/06/2023,13:47,2,$6.32 
+360,Comedy|Drama,You're a Big Boy Now,23/11/2023,16:30,2.9,$7.55 
+361,Drama|Mystery|Thriller,I'm Not Scared (Io non ho paura),04/09/2023,0:02,2.2,$1.18 
+362,Drama|Mystery,Lightning Strikes Twice,30/04/2023,6:43,2.4,$1.01 
+363,Action|Comedy|Fantasy,Mystery Men,25/12/2023,10:49,1,$1.16 
+364,Comedy|Thriller,After Hours,26/07/2023,14:18,2.4,$7.14 
+365,Thriller,China Moon,28/12/2023,12:47,1.6,$1.83 
+366,Comedy|Drama,"Letter to Three Wives, A",19/09/2023,22:51,1.8,$7.01 
+367,Documentary,"Recruiter, The",30/07/2023,3:17,2.1,$7.15 
+368,Crime|Drama|Thriller,"Lincoln Lawyer, The",13/11/2023,9:39,2.7,$1.70 
+369,Comedy,The Orkly Kid,22/07/2023,17:05,2,$7.47 
+370,Comedy|Romance,Pat and Mike,25/11/2023,13:30,2.4,$3.15 
+371,Comedy|Horror,Street Trash,16/10/2023,21:13,2.8,$3.23 
+372,Drama,The Trip to Bountiful,06/02/2023,20:55,1.4,$7.12 
+373,Comedy,Motherhood,24/03/2023,10:06,3,$9.04 
+374,Documentary,"My Beautiful Dacia (Dacia, dragostea mea)",03/04/2023,5:50,2.9,$0.07 
+375,Comedy,Friday After Next,26/10/2023,10:00,1.4,$9.77 
+376,Documentary,Photographer (Fotoamator),16/01/2023,1:35,1,$8.56 
+377,Comedy|Drama|Romance,"Wedding Banquet, The (Xi yan)",16/01/2023,0:29,2.5,$8.13 
+378,Drama,"Golden Bowl, The",30/11/2023,7:40,2.6,$6.91 
+379,Adventure|Drama|Romance,Green Dolphin Street,05/09/2023,0:27,2.8,$0.14 
+380,Comedy|Thriller,Long Hello and Short Goodbye,08/10/2023,14:57,1.2,$5.31 
+381,Animation|Children,Bugs Bunny's Looney Christmas Tales,03/03/2023,14:24,1.1,$7.71 
+382,Drama,Hotel,11/07/2023,11:40,1.7,$9.35 
+383,Drama,Crush,07/01/2023,12:46,1.3,$5.16 
+384,Comedy,Favorite Deadly Sins,19/06/2023,18:41,2.8,$6.56 
+385,Comedy,Horse Feathers,20/05/2023,0:50,2.5,$8.08 
+386,Action|Drama|Sci-Fi,Solarbabies,03/08/2023,17:51,1.6,$3.97 
+387,Comedy|Crime|Thriller,Make Like a Thief (Juokse kuin varas),01/06/2023,11:22,2,$4.35 
+388,Documentary,Blood in the Mobile,13/12/2023,16:25,1.4,$8.13 
+389,Drama|Horror|Mystery|Thriller|War,"Bunker, The",03/03/2023,2:33,1.3,$6.94 
+390,Documentary,A Justified Life: Sam Peckinpah and the High Country,08/07/2023,10:53,1.7,$2.75 
+391,Adventure|Fantasy|Sci-Fi,"Navigator: A Mediaeval Odyssey, The",02/12/2023,20:06,2.7,$5.43 
+392,Horror|Thriller,Ben,05/01/2023,5:38,1.4,$9.26 
+393,Action|Adventure|Sci-Fi|IMAX,"Hunger Games: Catching Fire, The",28/02/2023,11:02,2,$5.37 
+394,Comedy,"Groove Tube, The",07/04/2023,15:30,2.6,$6.89 
+395,Documentary,My Father and the Man in Black,28/09/2023,20:41,2.6,$8.02 
+396,Adventure|Animation|Children|Sci-Fi,BURN-E,10/08/2023,20:58,3,$3.67 
+397,Crime|Drama,"Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)",20/12/2023,17:40,1.3,$1.32 
+398,Horror|Thriller,"Lords of Salem, The",22/06/2023,8:58,2.1,$1.78 
+399,Children|Drama,Fluke,02/10/2023,13:57,1.3,$3.17 
+400,Comedy,"Wash, The",03/10/2023,6:52,2.4,$6.49 
+401,Crime|Drama|Thriller|Western,"Killer Inside Me, The",15/01/2023,3:03,1.2,$5.23 
+402,Drama|Romance,"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)",14/01/2023,8:00,2.4,$5.26 
+403,(no genres listed),One Man Against the Organization,20/11/2023,17:26,1.9,$8.10 
+404,Action|Adventure|Thriller,"View to a Kill, A",19/12/2023,10:35,1.5,$6.22 
+405,Children|Comedy,"Barefoot Executive, The",31/07/2023,19:00,1.2,$3.12 
+406,Comedy|Drama|Romance,"Battle of Shaker Heights, The",10/07/2023,1:50,2.1,$7.49 
+407,Drama|Mystery|Sci-Fi|Thriller,One Point O,21/08/2023,12:27,1.7,$1.00 
+408,Drama|Fantasy|Mystery|Romance,Simon Magus,25/03/2023,15:53,1.2,$5.12 
+409,Animation|Drama|Romance|Sci-Fi,Voices of a Distant Star (Hoshi no koe),22/09/2023,18:05,2.2,$7.87 
+410,Drama|Romance,Cinderella Liberty,09/05/2023,0:22,2.1,$9.51 
+411,Drama|Romance,"Night in Heaven, A",24/10/2023,4:39,2.6,$7.58 
+412,Drama|Horror|Romance,Jack and Diane,26/11/2023,2:41,2.9,$8.76 
+413,Drama,"Cake Eaters, The",13/01/2023,6:50,2.4,$6.11 
+414,Comedy|Musical,Too Many Girls,30/04/2023,19:10,1.4,$1.38 
+415,Comedy,"Suitor, The (Soupirant, Le)",18/12/2023,18:52,1.7,$7.41 
+416,Comedy,Hollidaysburg,19/05/2023,2:51,1.8,$1.05 
+417,Adventure|Comedy|Romance,Virgin Territory,26/10/2023,1:24,2.3,$8.10 
+418,Comedy|Crime,Charleston,16/08/2023,23:41,2.6,$4.31 
+419,Horror|Sci-Fi|Thriller,Demon Seed,23/06/2023,6:06,1.5,$7.30 
+420,Comedy|War,Stripes,14/04/2023,2:35,2.5,$3.06 
+421,Adventure|Drama,Ben-Hur: A Tale of the Christ,17/08/2023,20:47,1.4,$9.91 
+422,Comedy,Girl Most Likely,19/10/2023,21:09,2.6,$4.26 
+423,Documentary,Man for a Day,31/08/2023,8:28,1.2,$7.64 
+424,Comedy|Romance,Honeymoon in Vegas,16/10/2023,7:53,2.1,$9.63 
+425,Drama,"East, The",18/02/2023,5:08,2.7,$6.62 
+426,Action|Thriller,Patriot Games,25/06/2023,5:27,1.8,$0.70 
+427,Comedy|Drama,"Girl From Paris, A (hirondelle a fait le printemps, Une)",04/05/2023,7:04,2.8,$8.73 
+428,Horror|Mystery|Thriller,Dying Room Only,09/12/2023,17:40,2.9,$1.29 
+429,Thriller,Piggy,11/12/2023,19:53,1.8,$8.59 
+430,Adventure|Horror|Sci-Fi,Bigfoot,29/08/2023,21:53,2.2,$0.39 
+431,Documentary,"Green Wave, The",20/05/2023,17:14,2.9,$5.64 
+432,Drama,Dominick and Eugene,23/05/2023,11:56,2.7,$5.10 
+433,Drama|Sci-Fi,"Man from Earth, The",31/12/2023,18:08,1.5,$5.06 
+434,Action|Crime|Romance|Thriller,"Femme Nikita, La (Nikita)",20/01/2023,16:45,2.9,$3.79 
+435,Comedy,Naked,07/08/2023,10:09,1.7,$7.74 
+436,Horror,Tales of Terror (Kaidan Shin Mimibukuro),18/06/2023,1:47,1.2,$1.33 
+437,Drama,Hotel,18/01/2023,0:49,1.4,$1.82 
+438,Drama|Thriller,"Fifth Estate, The",27/06/2023,8:29,2.8,$9.18 
+439,Animation|War,"Fuehrer's Face, Der",27/08/2023,10:47,2.7,$2.21 
+440,Comedy|Drama|Romance,How to Deal,16/02/2023,4:15,2.4,$8.75 
+441,Drama,"Right Stuff, The",16/01/2023,6:57,2.3,$5.14 
+442,Action|Adventure|Animation|Children,Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi),05/06/2023,1:12,2,$1.47 
+443,Crime|Drama|Mystery|Thriller,"Crimson Rivers, The (Rivières pourpres, Les)",01/05/2023,6:47,2.7,$2.25 
+444,Comedy,The Magnet,29/12/2023,21:05,2.4,$6.74 
+445,Comedy|Fantasy,Young Frankenstein,28/09/2023,6:21,2.8,$6.48 
+446,Comedy|Horror,Hansel & Gretel Get Baked,19/10/2023,16:50,1.3,$3.97 
+447,Comedy|Sci-Fi,Dr. Goldfoot and the Girl Bombs (Le spie vengono dal semifreddo),16/11/2023,0:44,1.9,$2.77 
+448,Adventure|Animation|Children,101 Dalmatians (One Hundred and One Dalmatians),21/01/2023,3:30,2.7,$6.93 
+449,Animation,"It's Christmastime Again, Charlie Brown",06/08/2023,7:48,1.4,$9.08 
+450,Action|Adventure|Sci-Fi|Thriller,War of the Worlds,21/05/2023,20:19,2.1,$6.50 
+451,Comedy|Fantasy|Romance,My Super Ex-Girlfriend,04/05/2023,19:35,2.8,$1.63 
+452,Comedy|Drama|Romance,Mystic Pizza,24/12/2023,17:40,1.1,$9.50 
+453,Horror|Thriller,Dying Breed,13/11/2023,12:40,1.7,$6.32 
+454,Documentary,Deep Water,09/04/2023,20:29,2.4,$8.43 
+455,Action|Drama|Thriller,Zero Dark Thirty,24/02/2023,17:09,2.8,$7.31 
+456,Drama,Trouble with the Curve,13/09/2023,18:00,1.2,$10.00 
+457,Adventure|Animation|Children|Sci-Fi,Transformers: The Movie,17/03/2023,9:42,1.6,$8.33 
+458,Documentary|Drama,The Mark of Cain,21/06/2023,20:53,1.8,$5.00 
+459,Thriller,Breaking Point,01/05/2023,7:56,2.2,$3.46 
+460,Action|Adventure|Sci-Fi|Thriller|War,X-Men: First Class,11/01/2023,16:37,2.7,$2.39 
+461,Drama|Fantasy|Horror|Mystery|Romance,"Beast, The (La bête)",12/11/2023,8:44,2.1,$8.87 
+462,Drama|Musical|Romance,42nd Street,09/03/2023,10:26,1.5,$2.58 
+463,Drama,Asfour Stah,02/05/2023,9:35,2,$6.39 
+464,Adventure,Jungle Man-Eaters,10/10/2023,16:20,2.8,$7.78 
+465,Drama,"End of St. Petersburg, The (Konets Sankt-Peterburga)",01/07/2023,12:52,1.7,$8.18 
+466,Drama,Emitai,31/07/2023,19:03,2.3,$4.86 
+467,Drama|Romance,Smash-Up: The Story of a Woman,10/02/2023,21:01,2.6,$3.48 
+468,Comedy|Fantasy,Symbol (Shinboru),25/08/2023,3:41,2.7,$3.89 
+469,Drama|Romance,Every Stewardess Goes to Heaven (Todas las azafatas van al cielo),15/04/2023,12:23,1.6,$6.43 
+470,Children|Comedy,All I Want for Christmas,02/04/2023,9:22,3,$6.03 
+471,Drama|War,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The)",05/10/2023,21:13,1.1,$5.10 
+472,Action|Horror|Mystery|Thriller,Rise,09/08/2023,3:08,2.1,$6.66 
+473,Action|Adventure|Sci-Fi,Guardians of the Galaxy,02/01/2023,13:07,1.2,$4.58 
+474,Drama|War,"Bell for Adano, A (John Hersey's A Bell for Adano)",30/07/2023,11:02,1.9,$0.26 
+475,Comedy|Romance,Sex and the Single Girl,30/05/2023,18:06,2.8,$1.39 
+476,Thriller,"Hunter, The",12/05/2023,6:08,2,$3.00 
+477,Drama,Skirt Day (La journée de la jupe),02/08/2023,17:57,1.5,$4.36 
+478,Documentary,Fall of the Republic: The Presidency of Barack H. Obama,26/12/2023,5:08,2.7,$2.48 
+479,Documentary,Sons of Perdition,08/10/2023,14:31,1.1,$7.26 
+480,Drama,All Night Long,08/11/2023,16:11,1.1,$0.14 
+481,Sci-Fi|Thriller,Push,17/05/2023,16:48,2.9,$4.33 
+482,Action|Adventure|Sci-Fi,Mad Max Beyond Thunderdome,06/11/2023,15:06,1.6,$1.40 
+483,Drama|Thriller,"Woman's Face, A",27/10/2023,22:11,1.9,$4.62 
+484,Action|Adventure|Sci-Fi,The Inhabited Island 2: Rebellion,28/05/2023,22:03,1.4,$3.20 
+485,Comedy|Mystery,Who's Harry Crumb?,26/06/2023,15:25,1.9,$2.69 
+486,Documentary,"Place Called Chiapas, A",30/09/2023,22:56,2.7,$0.18 
+487,Comedy,College Road Trip,08/08/2023,20:06,1.1,$3.50 
+488,Comedy|Drama,We Bought a Zoo,05/03/2023,7:45,2.1,$6.93 
+489,Drama|Thriller,Deadline (Sprängaren),07/03/2023,13:50,2.1,$8.32 
+490,Action|Comedy|Crime,On the Other Side of the Tracks (De l'autre côté du périph),02/04/2023,21:24,1.2,$0.32 
+491,Action|Comedy,"Low Down Dirty Shame, A",08/09/2023,11:15,2.5,$3.40 
+492,Documentary,Salinger,29/01/2023,8:17,1.7,$6.21 
+493,Crime|Drama,Landscape Suicide,13/04/2023,5:58,2.5,$9.34 
+494,Adventure|Comedy,Mr. Robinson Crusoe,12/11/2023,11:56,1,$0.62 
+495,Drama|War,Winter War (Talvisota),15/10/2023,13:50,2,$5.41 
+496,Drama,Jesus of Montreal (Jésus de Montréal),29/08/2023,2:20,1.3,$6.74 
+497,Action|Thriller,Exit Wounds,18/06/2023,21:06,1.1,$4.90 
+498,Comedy|Romance,Love Finds Andy Hardy,31/03/2023,18:49,1.1,$0.47 
+499,Action|Adventure|Fantasy|Sci-Fi,Godzilla vs. The Sea Monster (Gojira-Ebira-Mosura: Nankai no daiketto),03/06/2023,23:21,1.8,$0.68 
+500,Comedy,High Spirits,10/10/2023,16:47,2.7,$9.85 
