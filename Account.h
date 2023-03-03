@@ -1,10 +1,11 @@
 #pragma once
 #include<iostream>
 using namespace std;
-class Account{
+class Account{ // name, phone, email, pasword, dob, gender
     private:
         string name, phone, email, password, dob, gender;
-    public:
+    public:\
+        bool exist = false;
         Account(){
             name="";
             phone="";
@@ -12,14 +13,16 @@ class Account{
             password="";
             dob="";
             gender="";
+            exist = false;
         }
-        Account(string name,string phone,string email,string password,string dob, string gender){
+        Account(string name,string phone,string email,string password,string dob, string gender, bool exist){
             this->name=name;
             this->phone=phone;
             this->email=email;
             this->password=password;
             this->dob=dob;
             this->gender=gender;
+            this->exist = exist;
         }
         void setName(string name){
             this->name=name;

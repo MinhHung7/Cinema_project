@@ -2,7 +2,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-class Movie{
+class Movie{ // genres {ten, thoigian, ngay, thoi luong, gia}
     private:
         vector<string> genres;
         string name;

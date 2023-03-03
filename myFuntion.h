@@ -10,12 +10,14 @@
 #include<stdlib.h>
 #include<time.h>
 
+enum pageCurrent {HomePage=1, SignInUp=2};
 using namespace std;
 
-void homePage(Account);
-void signInUpPage(Account);
+void homePage(Account&);
+void signInUpPage(Account&);
 
-int checkAndReturnYourChoose(Account user, string buffer, int status, const vector<string>menu){
+int checkAndReturnYourChoose(Account &user, string buffer, int returnStatus, const vector<string>menu){
+    // Neu valid choose => return choose
     int choose;
     try{
         choose = stoi(buffer);
@@ -28,39 +30,39 @@ int checkAndReturnYourChoose(Account user, string buffer, int status, const vect
         cout<<"PLEASE ENTER A NUMBER FROM 0 TO "<<menu.size()<<"!!!";
         Sleep(1000);
         system("cls");
-        if(status == 1) homePage(user);
-        else if(status == 2) signInUpPage(user);
+        if(returnStatus == HomePage) homePage(user);
+        else if(returnStatus == SignInUp) signInUpPage(user);
     }
     catch(exception e){
         cout<<"PLEASE ENTER A NUMBER!!!";
         Sleep(1000);
         system("cls");
-        if(status == 1) homePage(user);
-        else if(status == 2) signInUpPage(user);
+        if(returnStatus == HomePage) homePage(user);
+        else if(returnStatus == SignInUp) signInUpPage(user);
     }
 }
 
-void makeMenu(string tittle,vector<string>vt,string footText){
-    int maxLength=tittle.size();
+void makeMenu(string tittle,vector<string>vt,string footText){ // Tao khung voi title, noi dung tu vector vt vaf footText
+    int maxWidthMenu=tittle.size();
     for(string x:vt){
-        if(x.size() > maxLength) maxLength=x.size();
+        if(x.size() > maxWidthMenu) maxWidthMenu=x.size();  // max width menu
     }
-    maxLength+=20;
-    cout<<"+"<<setfill('-')<<setw(maxLength)<<right<<"+"<<"\n";
-    int spaceLeft = (int)(maxLength-tittle.size())/2;
-    cout<<setfill(' ')<<setw(spaceLeft)<<left<<"|"<<setw(maxLength-spaceLeft)<<left<<tittle; cout<<"|"<<"\n";
-    cout<<"+"<<setfill('-')<<setw(maxLength)<<right<<"+"<<"\n";
+    maxWidthMenu+=20;
+    cout<<"+"<<setfill('-')<<setw(maxWidthMenu)<<right<<"+"<<"\n";
+    int spaceLeft = (int)(maxWidthMenu-tittle.size())/2;
+    cout<<setfill(' ')<<setw(spaceLeft)<<left<<"|"<<setw(maxWidthMenu-spaceLeft)<<left<<tittle; cout<<"|"<<"\n";
+    cout<<"+"<<setfill('-')<<setw(maxWidthMenu)<<right<<"+"<<"\n";
 
     for(int i=0;i<=vt.size();++i){
         if(i==vt.size()){
-            cout<<"| "<<i<<". "<<setfill(' ')<<setw(maxLength-5)<<left<<footText<<"|\n";
+            cout<<"| "<<i<<". "<<setfill(' ')<<setw(maxWidthMenu-5)<<left<<footText<<"|\n";
         }
-        else cout<<"| "<<i<<". "<<setfill(' ')<<setw(maxLength-5)<<left<<vt[i]<<"|\n";
+        else cout<<"| "<<i<<". "<<setfill(' ')<<setw(maxWidthMenu-5)<<left<<vt[i]<<"|\n";
     }
-     cout<<"+"<<setfill('-')<<setw(maxLength)<<right<<"+"<<"\n";
+     cout<<"+"<<setfill('-')<<setw(maxWidthMenu)<<right<<"+"<<"\n";
 }
 
-bool checkValidDob(string& dob){
+bool checkValidDob(string& dob){  // Kiem tra ngay trong sign up
     int dateInMonth[13]= {0,31,28,31,30,31,30,31,31,30,31,30,31};
 
     int date, month, year;
@@ -79,7 +81,7 @@ bool checkValidDob(string& dob){
     return true;
 }
 
-bool checkDob(string &dob){
+bool checkDob(string &dob){  // Kiem tra ngay sinh hop le
     if(dob.size()!=10){
         return false;
     }
@@ -96,7 +98,7 @@ bool checkDob(string &dob){
     return checkValidDob(dob);
 }
 
-bool checkPhone(string& phone){
+bool checkPhone(string& phone){  // Kiem tra so dien thoai (du 10 so hoac 11 so)
     if(phone.size()!=10  && phone.size()!=11){
         return false;
     }
@@ -109,7 +111,7 @@ bool checkPhone(string& phone){
     return true;
 }
 
-void signInUpPage(Account user){
+void signInUpPage(Account &user){
     string tittle="Dang nhap/Dang ki";
     vector<string>menu={"Sign in","Sign up"};
     string footText = "Back";
@@ -117,7 +119,7 @@ void signInUpPage(Account user){
     cout<<"| Enter your choose: ";
     string buffer; getline(cin,buffer);
 
-    int choose = checkAndReturnYourChoose(user, buffer, 2, menu);
+    int choose = checkAndReturnYourChoose(user, buffer, SignInUp, menu);
     switch(choose){
         case 0:{
             system("cls");
@@ -188,6 +190,7 @@ void signInUpPage(Account user){
             user.setDob(dob);
             user.setGender(gender);
             user.setPhone(phone);
+            user.exist = true;
             system("cls");
             homePage(user);
             break;
@@ -273,16 +276,21 @@ void handle(const string line, vector<Movie>&movies){
     movie.setPrice(price);
     movies.push_back(movie);
 }
-void show(vector<Movie>movies){
+void bookingPage(Account &user, vector<string>information, string tittle){
+    string footText = "\b\b";
+    makeMenu(tittle, information, footText);
+}
+
+void show(Account& user, vector<Movie>movies){
     system("cls");
     srand((int)time(0));
     int countShow=5;
-    int firstMovie = rand()%(movies.size()-countShow-1);
+    int firstMovie = rand()%(movies.size()-countShow);
     int lastMovie = firstMovie+countShow;
-    for(int i=firstMovie;i<=lastMovie;++i){
+    vector<vector<string>>information;
+    for(int i=firstMovie;i<lastMovie;++i){
 
         string tittle = movies[i].getName();
-        vector<string>information;
         string genres="";
         for(int j=0;j<movies[i].getGenres().size();++j){
             if(j>0){
@@ -292,17 +300,30 @@ void show(vector<Movie>movies){
                 genres += movies[i].getGenres()[j];
             }
         }
-        information.push_back("Genres: "+genres);
-        information.push_back("Date: "+movies[i].getDate());
-        information.push_back("Time: "+movies[i].getTime());
-        information.push_back("Period: "+movies[i].getPeriod());
-        information.push_back("Price: "+movies[i].getPrice());
-        string footText = "";
-        makeMenu(tittle, information, footText);
+        information[i].push_back("Genres: "+genres);
+        information[i].push_back("Date: "+movies[i].getDate());
+        information[i].push_back("Time: "+movies[i].getTime());
+        information[i].push_back("Period: "+movies[i].getPeriod());
+        information[i].push_back("Price: "+movies[i].getPrice());
+        string footText = "Thu tu: "+to_string(i-firstMovie+1);
+        makeMenu(tittle, information[i], footText);
     }
+    cout<<"Chon phim cua ban (Nhan 0 de xem them): ";
+    int movie; cin>>movie;
+    do{
+        if(movie==0){
+            system("cls");
+            show(user,movies);
+        }
+        else if(movie >=1 && movie <=countShow){
+            system("cls");
+            bookingPage(user, information[movie-1], movies[movie].getName());
+        }
+    }
+    while(movie<0 || movie>countShow);
 }
 
-void moviePage(const Account user){
+void moviePage(Account& user){
     vector<Movie>movies;
     ifstream openToRead;
     openToRead.open("MovieData.txt",ios::in);
@@ -313,14 +334,15 @@ void moviePage(const Account user){
             handle(line, movies);
         }
         openToRead.close();
-        show(movies);
+        show(user, movies);
     }
     else{
         cout<<"Something went wrong!!!";
     }
 }
 
-void homePage(Account user){
+void homePage(Account& user){
+
     string tittle = "CINEMA (M.Hung)";
     vector<string>menu={"Dang nhap/Dang ki","Phim","Thanh vien","Dich vu"};
     string footText = "THOAT";
@@ -338,8 +360,16 @@ void homePage(Account user){
             break;
         }
         case 1:{
-            system("cls");
-            moviePage(user);
+            if(!user.exist){
+                cout<<"Ban can dang nhap tai khoan!!";
+                Sleep(2000);
+                system("cls");
+                homePage(user);
+            }
+            else {
+                system("cls");
+                moviePage(user);
+            }
             break;
         }
         default:{
